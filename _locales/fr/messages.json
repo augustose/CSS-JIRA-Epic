@@ -1,0 +1,12 @@
+{
+    "extensionName": {
+      "message": "Recherche de Texte Sélectionné"
+    },
+    "contextMenuTitle": {
+      "message": "Burndown de l'Épic JIRA '%s'"
+    },
+    "description": {
+      "message": "Effectue une recherche dans une URL prédéfinie en utilisant le texte sélectionné."
+    }
+  }
+  
