@@ -31,7 +31,7 @@ Este proyecto está bajo la Licencia MIT. Puedes usar, copiar, modificar y distr
 - No se proporciona ninguna garantía, expresa o implícita, sobre el software.
 
 
-### Customization
+## Customization
 Don't forget to customize the Background.js file  ! 
 
 ##########################################################################################
