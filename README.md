@@ -20,7 +20,7 @@
 ### En otros entornos
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/your_username/CSS-JIRA-Epic.git
+   git clone https://github.com/augustose/CSS-JIRA-Epic.git
 
 ## Licencia
 
@@ -56,4 +56,4 @@ Don't forget to customize the Background.js file  !
 ### In Other Environments
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/CSS-JIRA-Epic.git
+   git clone https://github.com/augustose/CSS-JIRA-Epic.git
