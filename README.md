@@ -30,6 +30,10 @@ Este proyecto está bajo la Licencia MIT. Puedes usar, copiar, modificar y distr
 - Se debe incluir una copia de esta licencia en todas las copias o partes sustanciales del software.
 - No se proporciona ninguna garantía, expresa o implícita, sobre el software.
 
+
+### Customization
+Don't forget to customize the Background.js file  ! 
+
 ##########################################################################################
 
 # CSS-JIRA-Epic
